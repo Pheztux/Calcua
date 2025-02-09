@@ -1,1 +1,1 @@
-# Calcua
+# Calculator using HTML, CSS & Javascript
